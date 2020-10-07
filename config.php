@@ -27,4 +27,4 @@ define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'data_opencart');
 define('DB_PORT', '3306');
-define('DB_PREFIX', '');
+define('DB_PREFIX', 'oc_');
