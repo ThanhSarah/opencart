@@ -1,9 +1,8 @@
 <?php
 // Text
-$_['text_success']  = 'Thành công: Bạn đã sửa đổi voucher!';
-$_['text_subject']  = 'Bạn đã được gửi một phiếu voucher từ %s';
-$_['text_greeting'] = 'Xin chúc mừng , bạn đã nhận được phiếu voucher giá trị %s';
-$_['text_from']     = 'Thẻ voucher đã được gửi đến cho bạn từ %s';
-$_['text_message']  = 'Có thông điệp';
-$_['text_redeem']   = 'Để mua lại giấy voucher , ghi mã <b>%s</b> sau đó nhấn vào liên kết bên dưới và mua sản phẩm bạn muốn sử dụng phiếu voucher. Bạn có thể nhập mã phiếu voucher trên trang giỏ mua hàng trước khi bạn nhấp vào kiểm.';
-$_['text_footer']   = 'Xin vui lòng trả lời email này nếu bạn có bất kỳ câu hỏi nào.';
+$_['text_subject']  = 'Bạn đã gửi phiếu quà tặng từ %s';
+$_['text_greeting'] = 'Chúc mừng, Bạn nhận được phiếu Quà Tặng trị giá %s';
+$_['text_from']     = 'Phiếu quà tặng được gửi đến bạn bởi %s';
+$_['text_message']  = 'Với lời nhắn';
+$_['text_redeem']   = 'Để sử dụng Phiếu Quà Tặng, ghi lại mã sau <b>%s</b> sau đó bấm vào đường link bên dưới và thanh toán sản phẩm bạn muốn sử dụng phiếu quà tặng. Bạn cũng có thể nhập mã Phiếu Quà Tặng trong trang giỏ hàng trước khi thanh toán.';
+$_['text_footer']   = 'Vui lòng trả lời thư này nếu bạn có bất kì câu hỏi nào.';

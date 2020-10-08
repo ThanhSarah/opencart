@@ -1,15 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Reward Points';
+$_['heading_title'] = 'Use Reward Points (Available %s)';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified reward points total!';
-$_['text_edit']        = 'Edit Reward Points Total';
+$_['text_reward']   = 'Reward Points (%s)';
+$_['text_order_id'] = 'Order ID: #%s';
+$_['text_success']  = 'Success: Your reward points discount has been applied!';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_reward']  = 'Points to use (Max %s)';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify reward points total!';
+$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
+$_['error_points']  = 'Warning: You don\'t have %s reward points!';
+$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';

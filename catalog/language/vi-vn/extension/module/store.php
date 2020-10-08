@@ -1,15 +1,7 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store';
+$_['heading_title'] = 'Chọn một gian hàng';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified store module!';
-$_['text_edit']        = 'Edit Store Module';
-
-// Entry
-$_['entry_admin']      = 'Admin Users Only';
-$_['entry_status']     = 'Status';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+$_['text_default']  = 'Mặc định';
+$_['text_store']    = 'Vui lòng chọn các cửa hàng bạn muốn truy cập.';

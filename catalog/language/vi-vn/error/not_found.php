@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Không tìm thấy trang!';
+$_['heading_title'] = 'Trang bạn yêu cầu không tồn tại!';
 
 // Text
-$_['text_not_found'] = 'Trang bạn đang tìm không tìm thấy được! Xin vui lòng liên hệ với quản trị viên của bạn nếu vấn đề vẫn tồn tại.';
+$_['text_error']    = 'Trang bạn yêu cầu không tồn tại!';

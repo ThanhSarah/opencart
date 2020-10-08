@@ -15,11 +15,11 @@ $_['column_sort_order'] = 'Thứ tự';
 $_['column_action']     = 'Thao tác';
 
 // Entry
-$_['entry_name']        = 'Tên ngôn ngữ:';
-$_['entry_code']        = 'Mã:<br /><span class="help">Không thay đổi nếu là ngôn ngữ mặc định.</span>';
-$_['entry_locale']      = 'Địa phương:<br /><span class="help">eg: vi_VN.UTF-8,vi_VN,vi-vn,vietnamese</span>';
-$_['entry_status']      = 'Trạng thái:<br /><span class="help">Ẩn/Hiện nó ở ngôn ngữ dropdown</span>';
-$_['entry_sort_order']  = 'Thứ tự:';
+$_['entry_name']        = 'Tên ngôn ngữ';
+$_['entry_code']        = 'Mã';
+$_['entry_locale']      = 'Địa phương';
+$_['entry_status']      = 'Trạng thái';
+$_['entry_sort_order']  = 'Thứ tự';
 
 // Help
 $_['help_locale']       = 'Ví dụ: vi_VN.UTF-8,vi_VN,vi-vn,vietnamese';

@@ -1,15 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Coupon';
+$_['heading_title'] = 'Use Coupon Code';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified coupon total!';
-$_['text_edit']        = 'Edit Coupon';
+$_['text_coupon']   = 'Coupon (%s)';
+$_['text_success']  = 'Success: Your coupon discount has been applied!';
 
 // Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_coupon']  = 'Enter your coupon here';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify coupon total!';
+$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
+$_['error_empty']   = 'Warning: Please enter a coupon code!';

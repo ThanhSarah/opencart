@@ -1,14 +1,7 @@
 <?php
 // Heading
-$_['heading_title']    = 'Information';
+$_['heading_title'] = 'Thông tin';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified information module!';
-$_['text_edit']        = 'Edit Information Module';
-
-// Entry
-$_['entry_status']     = 'Status';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify information module!';
+$_['text_contact']  = 'Liên hệ với chúng tôi';
+$_['text_sitemap']  = 'Sơ đồ trang';

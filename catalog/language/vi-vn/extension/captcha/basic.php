@@ -1,14 +1,9 @@
 <?php
-// Heading
-$_['heading_title']    = 'Captcha cơ bản';
-
 // Text
-$_['text_extension']   = 'Tiện ích mở rộng';
-$_['text_success']     = 'Thành công: Bạn đã sửa đổi Captcha cơ bản!';
-$_['text_edit']        = 'Chỉnh sửa Captcha cơ bản';
+$_['text_captcha']  = 'Mã Captcha';
 
 // Entry
-$_['entry_status']     = 'Tình trạng';
+$_['entry_captcha'] = 'Nhập mã vào hộp dưới đây';
 
 // Error
-$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi Captcha cơ bản!';
+$_['error_captcha'] = 'Mã xác minh không khớp với hình ảnh!';
